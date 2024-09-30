@@ -2,6 +2,8 @@
 
 This project is designed to generate history and math quizzes using a Large Language Model (LLM) via **AzureChatOpenAI** and LangChain. The system is flexible and modular, allowing easy customization of prompts, quiz generation logic, and interaction through an API and a Gradio interface.
 
+![messageImage_1727252618252](https://github.com/user-attachments/assets/9b3f7cdc-a52a-4587-abb8-6f0bbbc531d1)
+
 ## Project Structure
 
 - **quiz_generator.py**  
